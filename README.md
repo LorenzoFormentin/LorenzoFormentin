@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=LorenzoFormentin&color=brightgreen)
 
 - 🔭 I’m currently pursuing a Master's degree in Computer Engineering with a primary focus on Artificial Intelligence and Data Analytics at **Politecnico di Torino**.
-- 🌱 I’m currently learning ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) and ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black) for machine learning, and I'm getting started with ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) for a course on Web Applications and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) for System and Device Programming 
+<!-- - 🌱 I’m currently learning ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white) and ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black) for machine learning, and I'm getting started with ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) for a course on Web Applications and ![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white) for System and Device Programming -->
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/lorenzo-formentin/)
 
 <!--
